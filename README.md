@@ -1,9 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/rtWQojmw)
 # 0-java-project
 
 ## 최종 JAVA 프로젝트
 
-- [ ] 1. 온라인 서점 프로젝트 생성하기
+- [x] 1. 온라인 서점 프로젝트 생성하기
 - [ ] 2. 메인 메뉴 만들기
 - [ ] 3. 메인 메뉴 선택하기
 - [ ] 4. 메뉴 정보 표시 및 종료하기
